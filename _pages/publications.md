@@ -5,12 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+(As by convention, in theoretical computer science, authors are listed in alphabetical order.)
 
-{% include base_path %}
+Provable Reset-free Reinforcement Learning by No-Regret Reduction \\
+Hoai-An Nguyen, [Ching-An Cheng](https://www.chinganc.com/) \\
+ICML 2023
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Asymptotically Optimal Bounds for Estimating H-Index in Sublinear Time with Applications to Subgraph Counting\\
+Sepehr Assadi, Hoai-An Nguyen \\
+APPROX 2022 \\
+[Conference Version](https://drops.dagstuhl.de/opus/volltexte/2022/17170/) | [Full Version](https://arxiv.org/abs/2209.08114) | [Presentation](https://www.youtube.com/watch?v=R5h6dJgQAoA)
+
+Workshop Papers 
+
+[Provable Reset-free Reinforcement Learning by No-Regret Reduction](https://arxiv.org/abs/2301.02389) \\ 
+Hoai-An Nguyen, [Ching-An Cheng](https://www.chinganc.com/) \\
+[AAAI 2023 RL4PROD Workshop](https://sites.google.com/view/rlready4prodworkshop/home) (<font color = red>spotlight</font>) \\
+Paper under the same name to be published through ICML 2023
+
