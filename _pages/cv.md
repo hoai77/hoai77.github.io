@@ -1,7 +1,8 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+#permalink: /cv/
+permalink: /links/official_CV_Hoaian_Nguyen.pdf
 author_profile: true
 redirect_from:
   - /resume
