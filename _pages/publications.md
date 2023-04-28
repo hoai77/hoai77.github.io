@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-(As by convention, in theoretical computer science, authors are listed in alphabetical order.)
+(As is by convention, in theoretical computer science, authors are listed in alphabetical order.)
 
 Provable Reset-free Reinforcement Learning by No-Regret Reduction \\
 Hoai-An Nguyen, [Ching-An Cheng](https://www.chinganc.com/) \\
