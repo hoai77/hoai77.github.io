@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently an undergraduate student in the Department of Computer Science at Rutgers University. I am super fortunate to be working under the direction of [Sepehr Assadi](https://sepehr.assadi.info/). This past summer, I was extremely fortunate to intern under [Ching-An Cheng](https://www.chinganc.com/) at Microsoft Research. This fall, I will begin my PhD in the Department of Computer Science at Carnegie Mellon University. 
+I am currently an undergraduate student in the Department of Computer Science at Rutgers University where I am extremely fortunate to be advised by [Sepehr Assadi](https://sepehr.assadi.info/). This past summer, I had the privilege of interning under [Ching-An Cheng](https://www.chinganc.com/) at Microsoft Research. This fall, I will begin my PhD in the Department of Computer Science at Carnegie Mellon University. 
 
 My main research interests are broadly in the design and analysis of algorithms and complexity theory. More specifically, I have been working on big data algorithms in the sublinear time and streaming settings. I also have interests in algorithmic game theory and machine learning theory. 
 
