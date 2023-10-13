@@ -7,10 +7,9 @@ author_profile: true
 
 (As is by convention, in theoretical computer science, authors are listed in alphabetical order.)
 
-Near-Optimal Bounds for Approximating Impact Indices in a Stream \\ 
+Near-Optimal Bounds for Approximating Impact Indices in a Stream \\
 [Honghao Lin](https://honghlin.github.io/), Hoai-An Nguyen, and [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/) \\
-* In submission *
-
+In Submission 
 
 Provable Reset-free Reinforcement Learning by No-Regret Reduction \\
 Hoai-An Nguyen, [Ching-An Cheng](https://www.chinganc.com/) \\
