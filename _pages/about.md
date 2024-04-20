@@ -14,12 +14,6 @@ My research interests lie in theoretical computer science. In particular, I am t
 \- communication complexity (for streaming lower bounds)\\
 \- graph algorithms (graph sparsification, linear system solving)
 
-<p>...</p>
-testing: 
-- some stuff
-- some stuff pt 2
-
-
 I am also passionate about teaching and increasing diversity within CS. I have been a head LA, LA, and TA for various CS courses. 
 
 Email: hnnguyen(at)andrew.cmu.edu, [CV](../files/Hoaian_Nguyen_CV.pdf)
