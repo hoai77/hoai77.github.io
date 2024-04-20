@@ -8,6 +8,4 @@ tags:
   - category2
 ---
 
-Welcome to my blog! Most of the posts will be co-written with my boyfriend Michael Liu. We aim to make this a math-y cs-y type blog with the occasional other topic thrown in. 
-
-I currently have no idea how to set up comments. While I (maybe) try to figure that out, if you have a comment, feel free to email me! I'll post them right on the blog page under an anon screen name of your choosing...
+Welcome to my blog! Most of the posts will be co-written with my boyfriend Michael Liu. We aim to make this a math-y cs-y type blog with the occasional other topic thrown in. I currently have no idea how to set up comments. While I (maybe) try to figure that out, if you have a comment, feel free to email me! I'll post them right on the blog page under an anon screen name of your choosing...
