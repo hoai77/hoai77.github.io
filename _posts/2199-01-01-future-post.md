@@ -1,11 +1,17 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'Future Blog Post Topics'
+date: 7777-77-77
+permalink: /posts/7777/77/future-blog-posts/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - math
+  - computer science
+  - travel
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+[comment]: <This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. >
+
+Upcoming Topics
+======
+1. Buffoon's Needle
+2. Japan travel! 
+
