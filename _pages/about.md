@@ -16,7 +16,7 @@ My research interests lie in theoretical computer science. In particular, I am t
 
 I am also passionate about teaching and increasing diversity within CS. I have been a head LA, LA, and TA for various CS courses. 
 
-Email: hnnguyen(at)andrew.cmu.edu
+Email: hnnguyen(at)andrew.cmu.edu, [CV](../files/Hoaian_Nguyen_CV.pdf)
 
 Publications
 ============
