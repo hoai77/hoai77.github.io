@@ -45,3 +45,14 @@ APPROX 2022 \\
 Hoai-An Nguyen, [Ching-An Cheng](https://www.chinganc.com/) \\
 [AAAI 2023 RL4PROD Workshop](https://sites.google.com/view/rlready4prodworkshop/home) (<font color = red>spotlight</font>) \\
 Paper under the same name published through ICML 2023
+
+Teaching
+========
+- TA for Algorithm Design and Analysis (15-451) @ CMU, Spring 2024
+- TA for Design and Analysis of Computer Algorithms (198-344) @ Rutgers, Spring 2022, Spring 2023
+- Head LA for Data Structures (198-112) @ Rutgers, Spring 2021, Fall 2021, Spring 2022
+- LA for Data Structures (198-112) @ Rutgers, Spring 2021, Fall 2021, Spring 2022, Fall 2022, Spring 2023 
+- LA for Introduction to Computer Science (198-111) @ Rutgers, Fall 2020
+
+Service
+=======
