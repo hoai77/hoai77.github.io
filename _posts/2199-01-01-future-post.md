@@ -1,6 +1,6 @@
 ---
 title: 'Blog Info! '
-date: 7777-77-77
+date: 7777-07-07
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
