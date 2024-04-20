@@ -1,6 +1,6 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
+title: 'Blog Info! '
+date: 7777-77-77
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
