@@ -40,8 +40,7 @@ Asymptotically Optimal Bounds for Estimating H-Index in Sublinear Time with Appl
 APPROX 2022 \\
 [Conference Version](https://drops.dagstuhl.de/opus/volltexte/2022/17170/) | [Full Version](https://arxiv.org/abs/2209.08114) | [Presentation](https://www.youtube.com/watch?v=R5h6dJgQAoA)
 
-<strong>Workshop Papers</strong>
-
+<strong>Workshop Papers</strong> \\
 [Provable Reset-free Reinforcement Learning by No-Regret Reduction](https://arxiv.org/abs/2301.02389) \\
 Hoai-An Nguyen, [Ching-An Cheng](https://www.chinganc.com/) \\
 [AAAI 2023 RL4PROD Workshop](https://sites.google.com/view/rlready4prodworkshop/home) (<font color = red>spotlight</font>) \\
