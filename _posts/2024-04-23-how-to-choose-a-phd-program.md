@@ -70,7 +70,7 @@ Choosing a school
 
 Congratulations! You've gotten in. What now? 
 
-The fun part about this section of the timeline is schools and professors are recruiting you! Savor it - it's a time when many people who are very busy will take time out of their schedules to speak with you. And, it feels nice to be chased :"\)". I'll outline some of the things that helped me decide where to attend. Many of these are things you can find out by participating in visit days (which I highly recommend). 
+The fun part about this section of the timeline is schools and professors are recruiting you! Savor it - it's a time when many people who are very busy will take time out of their schedules to speak with you. And, it feels nice to be chased :\). I'll outline some of the things that helped me decide where to attend. Many of these are things you can find out by participating in visit days (which I highly recommend). 
 
 These are a few things I looked at regarding the student body at a particular school. 
 + Are there other students who work on what you want to work on? Yes means more potential collaborators and people to help you! 
