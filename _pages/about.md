@@ -22,12 +22,12 @@ Publications
 ============
 (As is by convention, in theoretical computer science, authors are listed in alphabetical order.)
 
-On Estimating Frequency Moments of Data Streams with Forgets \\ 
-[Honghao Lin](https://honghlin.github.io/), Hoai-An Nguyen, [William Swartworth](https://wswartworth.github.io/), and [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/) \\ 
+On Estimating Frequency Moments of Data Streams with Forgets \\
+[Honghao Lin](https://honghlin.github.io/), Hoai-An Nguyen, [William Swartworth](https://wswartworth.github.io/), and [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/) \\
 In Submission
 
-Streaming Linear Regression in Subquadratic Space \\ 
-Hoai-An Nguyen, Junzhao Yang \\ 
+Streaming Linear Regression in Subquadratic Space \\
+Hoai-An Nguyen, Junzhao Yang \\
 In Submission
 
 Submodular Maximization in Turnstile Streams for Improved Fingerprinting \\
