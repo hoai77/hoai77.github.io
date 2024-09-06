@@ -26,10 +26,6 @@ On Estimating Frequency Moments of Data Streams with Forgets \\
 [Honghao Lin](https://honghlin.github.io/), Hoai-An Nguyen, [William Swartworth](https://wswartworth.github.io/), and [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/) \\
 In Submission
 
-Streaming Linear Regression in Subquadratic Space \\
-Hoai-An Nguyen, Junzhao Yang \\
-In Submission
-
 Submodular Maximization in Turnstile Streams for Improved Fingerprinting \\
 [Alessandro Epasto](https://epasto.org/), [Vahab Mirrokni](https://research.google/people/vahab-s-mirrokni/), Hoai-An Nguyen, [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/), and [Peilin Zhong](https://research.google/people/peilin-zhong/) \\
 In Submission 
