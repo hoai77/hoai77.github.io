@@ -22,18 +22,6 @@ Publications
 ============
 (As is by convention, in theoretical computer science, authors are listed in alphabetical order.)
 
-On Estimating Frequency Moments of Data Streams with Forgets \\
-[Honghao Lin](https://honghlin.github.io/), Hoai-An Nguyen, [William Swartworth](https://wswartworth.github.io/), and [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/) \\
-In Submission
-
-Submodular Maximization in Turnstile Streams for Improved Fingerprinting \\
-[Alessandro Epasto](https://epasto.org/), [Vahab Mirrokni](https://research.google/people/vahab-s-mirrokni/), Hoai-An Nguyen, [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/), and [Peilin Zhong](https://research.google/people/peilin-zhong/) \\
-In Submission 
-
-Near-Optimal Bounds for Approximating Impact Indices in a Stream \\
-[Honghao Lin](https://honghlin.github.io/), Hoai-An Nguyen, and [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/) \\
-In Submission 
-
 Provable Reset-free Reinforcement Learning by No-Regret Reduction \\
 Hoai-An Nguyen, [Ching-An Cheng](https://www.chinganc.com/) \\
 ICML 2023 \\
