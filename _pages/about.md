@@ -40,6 +40,7 @@ Paper under the same name published through ICML 2023
 
 Teaching
 ========
+- TA for Algorithms for Big Data (15-851) @ CMU, Spring 2025
 - TA for Algorithm Design and Analysis (15-451) @ CMU, Spring 2024
 - TA for Design and Analysis of Computer Algorithms (198-344) @ Rutgers, Spring 2022, Spring 2023
 - Head LA for Data Structures (198-112) @ Rutgers, Spring 2021, Fall 2021, Spring 2022
