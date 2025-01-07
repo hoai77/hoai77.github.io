@@ -48,7 +48,7 @@ Teaching
 
 Service
 =======
-- reviewer for: ICALP 2024, KDD 2024
+- reviewer for: ICALP 2024, KDD 2024, STACS 2025
 - co-organizing CMU's algorithms and complexity lunch seminar
 - session leader for the [CMU TechNights](https://www.cmu.edu/scs/technights/) program in Fall 2023
 
