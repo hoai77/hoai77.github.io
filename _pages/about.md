@@ -52,6 +52,4 @@ Service
 - co-organizing CMU's algorithms and complexity lunch seminar
 - session leader for the [CMU TechNights](https://www.cmu.edu/scs/technights/) program in Fall 2023
 
-Other
-=====
-Check out my boyfriend Michael Liu's project: [LiveOrderBook](https://liveorderbook.xyz/). 
+
