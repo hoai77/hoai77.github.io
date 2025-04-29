@@ -21,7 +21,7 @@ Email: hnnguyen(at)andrew.cmu.edu, [CV](../files/Hoaian_Nguyen_CV.pdf)
 Preprints
 =========
 Maximum Coverage in Turnstile Streams with Applications to Fingerprinting Measures \\
-[Alina Ene](https://cs-people.bu.edu/aene/), [Alessandro Epasto](https://epasto.org/), [Vahab Mirrokni](https://people.csail.mit.edu/mirrokni/Welcome.html), Hoai-An Nguyen, [Huy L. Nguyen](https://www.khoury.northeastern.edu/home/hlnguyen/), [David P. Woodruff](https://www.cs.cmu.edu/~dwoodruf/), [Peilin Zhong](https://research.google/people/108328/?&type=google) \\ 
+[Alina Ene](https://cs-people.bu.edu/aene/), [Alessandro Epasto](https://epasto.org/), [Vahab Mirrokni](https://people.csail.mit.edu/mirrokni/Welcome.html), Hoai-An Nguyen, [Huy L. Nguyen](https://www.khoury.northeastern.edu/home/hlnguyen/), [David P. Woodruff](https://www.cs.cmu.edu/~dwoodruf/), [Peilin Zhong](https://research.google/people/108328/?&type=google) \\
 [Full Version](https://arxiv.org/abs/2504.18394)
 
 Publications
