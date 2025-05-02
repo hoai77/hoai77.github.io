@@ -20,13 +20,20 @@ Email: hnnguyen(at)andrew.cmu.edu, [CV](../files/Hoaian_Nguyen_CV.pdf)
 
 Preprints
 =========
-Maximum Coverage in Turnstile Streams with Applications to Fingerprinting Measures \\
-[Alina Ene](https://cs-people.bu.edu/aene/), [Alessandro Epasto](https://epasto.org/), [Vahab Mirrokni](https://people.csail.mit.edu/mirrokni/Welcome.html), Hoai-An Nguyen, [Huy L. Nguyen](https://www.khoury.northeastern.edu/home/hlnguyen/), [David P. Woodruff](https://www.cs.cmu.edu/~dwoodruf/), [Peilin Zhong](https://research.google/people/108328/?&type=google) \\
-[Full Version](https://arxiv.org/abs/2504.18394)
+
 
 Publications
 ============
 (As is by convention, in theoretical computer science, authors are listed in alphabetical order.)
+
+Maximum Coverage in Turnstile Streams with Applications to Fingerprinting Measures \\
+[Alina Ene](https://cs-people.bu.edu/aene/), [Alessandro Epasto](https://epasto.org/), [Vahab Mirrokni](https://people.csail.mit.edu/mirrokni/Welcome.html), Hoai-An Nguyen, [Huy L. Nguyen](https://www.khoury.northeastern.edu/home/hlnguyen/), [David P. Woodruff](https://www.cs.cmu.edu/~dwoodruf/), [Peilin Zhong](https://research.google/people/108328/?&type=google) \\
+ICML 2025 \\
+[Full Version](https://arxiv.org/abs/2504.18394)
+
+Relative Error Fair Clustering in the Weak-Strong Oracle Model \\
+[Vladimir Braverman](https://www.cs.jhu.edu/~vova/), [Prathamesh Dharangutte](https://prathameshd.com/), [Shaofeng Jiang](https://www.shaofengjiang.cn/), Hoai-An Nguyen, [Chen Wang](https://sites.google.com/view/chen-wang/home), [Yubo Zhang](https://falsytaz.github.io/), [Samson Zhou](https://samsonzhou.github.io/) \\ 
+ICML 2025
 
 Provable Reset-free Reinforcement Learning by No-Regret Reduction \\
 Hoai-An Nguyen, [Ching-An Cheng](https://www.chinganc.com/) \\
