@@ -32,7 +32,7 @@ ICML 2025 \\
 [Full Version](https://arxiv.org/abs/2504.18394)
 
 Relative Error Fair Clustering in the Weak-Strong Oracle Model \\
-[Vladimir Braverman](https://www.cs.jhu.edu/~vova/), [Prathamesh Dharangutte](https://prathameshd.com/), [Shaofeng Jiang](https://www.shaofengjiang.cn/), Hoai-An Nguyen, [Chen Wang](https://sites.google.com/view/chen-wang/home), [Yubo Zhang](https://falsytaz.github.io/), [Samson Zhou](https://samsonzhou.github.io/) \\ 
+[Vladimir Braverman](https://www.cs.jhu.edu/~vova/), [Prathamesh Dharangutte](https://prathameshd.com/), [Shaofeng Jiang](https://www.shaofengjiang.cn/), Hoai-An Nguyen, [Chen Wang](https://sites.google.com/view/chen-wang/home), [Yubo Zhang](https://falsytaz.github.io/), [Samson Zhou](https://samsonzhou.github.io/) \\
 ICML 2025
 
 Provable Reset-free Reinforcement Learning by No-Regret Reduction \\
