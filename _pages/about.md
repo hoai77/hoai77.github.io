@@ -18,10 +18,6 @@ I am also passionate about teaching and increasing diversity within CS. I have b
 
 Email: hnnguyen(at)andrew.cmu.edu, [CV](../files/Hoaian_Nguyen_CV.pdf)
 
-Preprints
-=========
-
-
 Publications
 ============
 (As is by convention, in theoretical computer science, authors are listed in alphabetical order.)
