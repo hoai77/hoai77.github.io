@@ -18,6 +18,12 @@ I am also passionate about teaching and increasing diversity within CS. I have b
 
 Email: hnnguyen(at)andrew.cmu.edu, [CV](../files/Hoaian_Nguyen_CV.pdf)
 
+Preprints
+=========
+On Sketching Trimmed Statistics \\
+[Honghao Lin](https://honghlin.github.io/), Hoai-An Nguyen, [David P. Woodruff](https://www.cs.cmu.edu/~dwoodruf/) \\
+[Full Version](https://arxiv.org/abs/2506.07342)
+
 Publications
 ============
 (As is by convention, in theoretical computer science, authors are listed in alphabetical order.)
