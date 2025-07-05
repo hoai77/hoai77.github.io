@@ -20,8 +20,12 @@ Email: hnnguyen(at)andrew.cmu.edu, [CV](../files/Hoaian_Nguyen_CV.pdf)
 
 Preprints
 =========
+Numerical Linear Algebra in Linear Space \\
+with Yiping Liu and Junzhao Yang \\
+[Full Version](https://arxiv.org/abs/2507.02433)
+
 On Sketching Trimmed Statistics \\
-[Honghao Lin](https://honghlin.github.io/), Hoai-An Nguyen, [David P. Woodruff](https://www.cs.cmu.edu/~dwoodruf/) \\
+with [Honghao Lin](https://honghlin.github.io/) and [David P. Woodruff](https://www.cs.cmu.edu/~dwoodruf/) \\
 [Full Version](https://arxiv.org/abs/2506.07342)
 
 Publications
@@ -29,12 +33,12 @@ Publications
 (As is by convention, in theoretical computer science, authors are listed in alphabetical order.)
 
 Maximum Coverage in Turnstile Streams with Applications to Fingerprinting Measures \\
-[Alina Ene](https://cs-people.bu.edu/aene/), [Alessandro Epasto](https://epasto.org/), [Vahab Mirrokni](https://people.csail.mit.edu/mirrokni/Welcome.html), Hoai-An Nguyen, [Huy L. Nguyen](https://www.khoury.northeastern.edu/home/hlnguyen/), [David P. Woodruff](https://www.cs.cmu.edu/~dwoodruf/), [Peilin Zhong](https://research.google/people/108328/?&type=google) \\
+with [Alina Ene](https://cs-people.bu.edu/aene/), [Alessandro Epasto](https://epasto.org/), [Vahab Mirrokni](https://people.csail.mit.edu/mirrokni/Welcome.html), [Huy L. Nguyen](https://www.khoury.northeastern.edu/home/hlnguyen/), [David P. Woodruff](https://www.cs.cmu.edu/~dwoodruf/), and [Peilin Zhong](https://research.google/people/108328/?&type=google) \\
 ICML 2025 \\
 [Full Version](https://arxiv.org/abs/2504.18394)
 
 Relative Error Fair Clustering in the Weak-Strong Oracle Model \\
-[Vladimir Braverman](https://www.cs.jhu.edu/~vova/), [Prathamesh Dharangutte](https://prathameshd.com/), [Shaofeng Jiang](https://www.shaofengjiang.cn/), Hoai-An Nguyen, [Chen Wang](https://sites.google.com/view/chen-wang/home), [Yubo Zhang](https://falsytaz.github.io/), [Samson Zhou](https://samsonzhou.github.io/) \\
+with [Vladimir Braverman](https://www.cs.jhu.edu/~vova/), [Prathamesh Dharangutte](https://prathameshd.com/), [Shaofeng Jiang](https://www.shaofengjiang.cn/), [Chen Wang](https://sites.google.com/view/chen-wang/home), [Yubo Zhang](https://falsytaz.github.io/), and [Samson Zhou](https://samsonzhou.github.io/) \\
 ICML 2025 \\
 [Full Version](https://arxiv.org/abs/2506.12287)
 
@@ -44,7 +48,7 @@ ICML 2023 \\
 [Conference Version](https://proceedings.mlr.press/v202/nguyen23b.html) | [Full Version](https://arxiv.org/abs/2301.02389)
 
 Asymptotically Optimal Bounds for Estimating H-Index in Sublinear Time with Applications to Subgraph Counting\\
-[Sepehr Assadi](https://sepehr.assadi.info/), Hoai-An Nguyen \\
+with [Sepehr Assadi](https://sepehr.assadi.info/) \\
 APPROX 2022 \\
 [Conference Version](https://drops.dagstuhl.de/opus/volltexte/2022/17170/) | [Full Version](https://arxiv.org/abs/2209.08114) | [Presentation](https://www.youtube.com/watch?v=R5h6dJgQAoA)
 
@@ -65,7 +69,7 @@ Teaching
 
 Service
 =======
-- reviewer for: ICALP 2024, KDD 2024, STACS 2025, ESA 2025, RANDOM 2025, NeurIPS 2025 
+- reviewer for: ICALP 2024, KDD 2024, STACS 2025, ESA 2025, RANDOM 2025, NeurIPS 2025, Algorithmica
 - organized CMU's algorithms and complexity lunch seminar Spring 2024 - Fall 2024
 - session leader for the [CMU TechNights](https://www.cmu.edu/scs/technights/) program in Fall 2023
 
