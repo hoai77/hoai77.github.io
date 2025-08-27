@@ -7,14 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year Ph.D. student in the Computer Science Department at Carnegie Mellon University where I am fortunate to be advised by [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/). Previously, I was an undergraduate at Rutgers University where I was fortunate to be advised by [Sepehr Assadi](https://sepehr.assadi.info/). I also had the privilege of interning with [Ching-An Cheng](https://www.chinganc.com/) at Microsoft Research in the summer of 2022. I am partially supported by a NSF Graduate Research Fellowship. 
+I am a third-year Ph.D. student in the Computer Science Department at Carnegie Mellon University where I am fortunate to be co-advised by [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/) and [Yang Liu](https://yangpliu.github.io/). Previously, I was an undergraduate at Rutgers University where I was fortunate to be advised by [Sepehr Assadi](https://sepehr.assadi.info/). I also had the privilege of interning with [Ching-An Cheng](https://www.chinganc.com/) at Microsoft Research in the summer of 2022. I am partially supported by a NSF Graduate Research Fellowship. 
 
 My research interests lie in theoretical computer science. In particular, I am thinking about:\\
 \- sublinear algorithms (streaming, sketching, sublinear-time)\\
 \- communication complexity (for streaming lower bounds)\\
 \- graph algorithms (graph sparsification, linear system solving)
-
-I am also passionate about teaching and increasing diversity within CS. I have been a head LA, LA, and TA for various CS courses. 
 
 Email: hnnguyen(at)andrew.cmu.edu, [CV](../files/Hoaian_Nguyen_CV.pdf)
 
@@ -27,6 +25,10 @@ with Yiping Liu and Junzhao Yang \\
 On Sketching Trimmed Statistics \\
 with [Honghao Lin](https://honghlin.github.io/) and [David P. Woodruff](https://www.cs.cmu.edu/~dwoodruf/) \\
 [Full Version](https://arxiv.org/abs/2506.07342)
+
+Unbiased Insights: Optimal Streaming Algorithms for Lp Sampling, the Forget Model, and Beyond \\
+with [Honghao Lin](https://honghlin.github.io/), [William Swartworth](https://wswartworth.github.io/), and [David P. Woodruff](https://www.cs.cmu.edu/~dwoodruf/) \\
+[Full Version](https://arxiv.org/abs/2508.07067)
 
 Publications
 ============
