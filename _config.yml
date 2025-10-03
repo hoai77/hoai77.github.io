@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hoai-An Nguyen"
+  name             : 
   avatar           : "profile-pic.png"
-  bio              : "Ph.D. Student, Carnegie Mellon University"
+  bio              : 
   location         : 
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=9k20Ie4AAAAJ&hl=en"
-  email            : "hnnguyen@andrew.cmu.edu"
+  googlescholar    : 
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "hoaian-nguyen/"
+  linkedin         : 
   orcid            : 
   pinterest        :
   soundcloud       :
