@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hoai-An Nguyen"
-title_separator          : "-"
+title                    : ""
+title_separator          : ""
 name                     : &name "Hoai-An Nguyen"
 description              : &description "Undergraduate student at Rutgers University"
 url                      : https://hoai77.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
