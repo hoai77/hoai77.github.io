@@ -1,35 +1,14 @@
-/* === Custom overrides === */
-
-/* TEMP DEBUG — remove after verifying that overrides load */
-body { background: pink !important; } /* remove this line after test */
-
-/* Force rectangular profile photo */
-div.author__avatar img,
+/* Author avatar — rectangular, scaled nicely */
 .author__avatar img {
-  border-radius: 0 !important;
-  width: auto !important;
-  height: auto !important;
-  object-fit: contain !important;
+  border-radius: 0 !important;   /* remove oval */
+  width: 200px !important;       /* pick a nice width */
+  height: auto !important;       /* keep proportions */
+  object-fit: cover !important;  /* crop if necessary */
   display: block !important;
+  margin: 0 auto !important;     /* center it */
 }
-
-/* Remove container constraints */
-.author__avatar {
-  border-radius: 0 !important;
-  max-width: none !important;
-  width: auto !important;
-  height: auto !important;
-}
-
-/* Darker link colors */
-a {
-  color: #0645AD !important;
-}
-a:hover {
-  color: #0B0080 !important;
-}
-
-/* Highlighted text classes */
+a { color: #0645AD !important; }
+a:hover { color: #0B0080 !important; }
 .highlight-red { color: #b22222 !important; }
 .highlight-blue { color: #0645AD !important; }
 .highlight-green { color: #2e8b57 !important; }
