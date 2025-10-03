@@ -71,21 +71,6 @@
   align-self: start;
 }
 
-/* Move sidebar (with avatar) to the right */
-.page__inner-wrap {
-  display: flex;
-  flex-direction: row-reverse; /* sidebar right, content left */
-}
-
-/* Ensure main content and sidebar align side by side */
-.sidebar {
-  flex: 0 0 250px; /* width of sidebar */
-  margin-left: 2rem; /* spacing between content and sidebar */
-}
-.page__content {
-  flex: 1; /* take remaining width */
-}
-
 /* Darker, more standard link colors */
 a {
   color: #0645AD !important;
