@@ -39,3 +39,29 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* === Custom overrides === */
+
+/* Rectangular avatar, scaled to a reasonable size */
+.author__avatar img {
+  border-radius: 0 !important;   /* removes the oval mask */
+  width: 180px !important;       /* adjust as needed (150–200px looks good) */
+  height: auto !important;       /* keep aspect ratio */
+  object-fit: cover !important;
+  display: block !important;
+  margin: 0 auto !important;     /* centers it */
+}
+
+/* Keep avatar container constrained */
+.author__avatar {
+  max-width: 180px !important;
+  margin: 0 auto;
+}
+
+/* Darker, more standard link colors */
+a {
+  color: #0645AD !important;
+}
+a:hover {
+  color: #0B0080 !important;
+}
