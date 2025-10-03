@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Hello!"
-excerpt: "Hello!"
+title: "Hoai-An Nguyen"
+excerpt: "Hoai-An Nguyen"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,8 +16,7 @@ My research interests lie in theoretical computer science. In particular, I am t
 
 Email: hnnguyen(at)andrew.cmu.edu, [CV](../files/Hoaian_Nguyen_CV.pdf)
 
-Preprints
-=========
+## Preprints
 Numerical Linear Algebra in Linear Space \\
 with Yiping Liu and Junzhao Yang \\
 [Full Version](https://arxiv.org/abs/2507.02433)
@@ -30,8 +29,7 @@ Unbiased Insights: Optimal Streaming Algorithms for Lp Sampling, the Forget Mode
 with [Honghao Lin](https://honghlin.github.io/), [William Swartworth](https://wswartworth.github.io/), and [David P. Woodruff](https://www.cs.cmu.edu/~dwoodruf/) \\
 [Full Version](https://arxiv.org/abs/2508.07067)
 
-Publications
-============
+## Publications
 (As is by convention, in theoretical computer science, authors are listed in alphabetical order.)
 
 Maximum Coverage in Turnstile Streams with Applications to Fingerprinting Measures \\
@@ -68,8 +66,7 @@ Paper under the same name published through ICML 2023
 - LA for Data Structures (198-112) @ Rutgers, Spring 2021, Fall 2021, Spring 2022, Fall 2022, Spring 2023 
 - LA for Introduction to Computer Science (198-111) @ Rutgers, Fall 2020
 
-Service
-=======
+## Service
 - reviewer for: ICALP 2024, KDD 2024, STACS 2025, ESA 2025, RANDOM 2025, NeurIPS 2025, Algorithmica
 - organized CMU's algorithms and complexity lunch seminar Spring 2024 - Fall 2024
 - session leader for the [CMU TechNights](https://www.cmu.edu/scs/technights/) program in Fall 2023
