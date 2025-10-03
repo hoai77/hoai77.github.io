@@ -60,8 +60,7 @@ Hoai-An Nguyen, [Ching-An Cheng](https://www.chinganc.com/) \\
 [AAAI 2023 RL4PROD Workshop](https://sites.google.com/view/rlready4prodworkshop/home) (<font color = red>spotlight</font>) \\
 Paper under the same name published through ICML 2023
 
-Teaching
-========
+## Teaching
 - TA for Algorithms for Big Data (15-851) @ CMU, Spring 2025
 - TA for Algorithm Design and Analysis (15-451) @ CMU, Spring 2024
 - TA for Design and Analysis of Computer Algorithms (198-344) @ Rutgers, Spring 2022, Spring 2023
