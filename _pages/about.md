@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Hoai-An Nguyen"
-excerpt: "Hoai-An Nguyen"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
