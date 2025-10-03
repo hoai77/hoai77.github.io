@@ -64,13 +64,6 @@
   box-shadow: none !important;
 }
 
-/* Make sidebar/avatar fixed (doesn't scroll) */
-.sidebar {
-  position: sticky !important;
-  top: 2rem;  /* adjust spacing from top */
-  align-self: start;
-}
-
 /* Darker, more standard link colors */
 a {
   color: #0645AD !important;
