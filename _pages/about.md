@@ -17,10 +17,6 @@ My research interests lie in theoretical computer science. In particular, I am t
 Email: hnnguyen(at)andrew.cmu.edu, [CV](../files/Hoaian_Nguyen_CV.pdf)
 
 ## Preprints
-Numerical Linear Algebra in Linear Space \\
-with Yiping Liu and Junzhao Yang \\
-[Full Version](https://arxiv.org/abs/2507.02433)
-
 On Sketching Trimmed Statistics \\
 with [Honghao Lin](https://honghlin.github.io/) and [David P. Woodruff](https://www.cs.cmu.edu/~dwoodruf/) \\
 [Full Version](https://arxiv.org/abs/2506.07342)
@@ -31,6 +27,15 @@ with [Honghao Lin](https://honghlin.github.io/), [William Swartworth](https://ws
 
 ## Publications
 (As is by convention, in theoretical computer science, authors are listed in alphabetical order.)
+
+Numerical Linear Algebra in Linear Space \\
+with Yiping Liu and Junzhao Yang \\
+SODA 2026 \\
+[Full Version](https://arxiv.org/abs/2507.02433)
+
+Entrywise Approximation for Matrix Inversion and Linear Systems \\
+with [Mehrdad Ghadiri](https://web.mit.edu/mehrdadg/www/) and Junzhao Yang \\
+SODA 2026
 
 Maximum Coverage in Turnstile Streams with Applications to Fingerprinting Measures \\
 with [Alina Ene](https://cs-people.bu.edu/aene/), [Alessandro Epasto](https://epasto.org/), [Vahab Mirrokni](https://people.csail.mit.edu/mirrokni/Welcome.html), [Huy L. Nguyen](https://www.khoury.northeastern.edu/home/hlnguyen/), [David P. Woodruff](https://www.cs.cmu.edu/~dwoodruf/), and [Peilin Zhong](https://research.google/people/108328/?&type=google) \\
