@@ -45,7 +45,7 @@
 /* Rectangular avatar, scaled to a reasonable size */
 .author__avatar img {
   border-radius: 0 !important;   /* removes the oval mask */
-  width: 180px !important;       /* adjust as needed (150–200px looks good) */
+  width: 220px !important;       /* adjust as needed (150–200px looks good) */
   height: auto !important;       /* keep aspect ratio */
   object-fit: cover !important;
   display: block !important;
@@ -54,8 +54,36 @@
 
 /* Keep avatar container constrained */
 .author__avatar {
-  max-width: 180px !important;
+  max-width: 220px !important;
   margin: 0 auto;
+}
+
+/* Remove top border line under the navigation */
+.masthead {
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+
+/* Make sidebar/avatar fixed (doesn't scroll) */
+.sidebar {
+  position: sticky !important;
+  top: 2rem;  /* adjust spacing from top */
+  align-self: start;
+}
+
+/* Move sidebar (with avatar) to the right */
+.page__inner-wrap {
+  display: flex;
+  flex-direction: row-reverse; /* sidebar right, content left */
+}
+
+/* Ensure main content and sidebar align side by side */
+.sidebar {
+  flex: 0 0 250px; /* width of sidebar */
+  margin-left: 2rem; /* spacing between content and sidebar */
+}
+.page__content {
+  flex: 1; /* take remaining width */
 }
 
 /* Darker, more standard link colors */
