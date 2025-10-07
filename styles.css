@@ -1,0 +1,28 @@
+body {
+    background-color:white;
+    font-family: arial;
+    font-size: 100%;
+    max-width: 1000px;
+    margin: 70px auto 100px;
+}
+
+h1 {
+    color: black;
+    font-size: 200%;
+}
+
+h2 {
+    color: black;
+    font-size: 120%;
+}
+
+p  {
+    color: black;
+    font-size: 100%;
+}
+
+section {
+    float:left;
+    width:350px;
+    padding:10px; 
+}
