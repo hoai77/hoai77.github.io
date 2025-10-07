@@ -27,85 +27,33 @@ section {
     padding:10px; 
 }
 
-/* ===== Override avatar / header layout for mobile ===== */
-
-/* Make sure images are responsive */
-img {
-  max-width: 100%;
-  height: auto;
-}
-
-/* Reset avatar/default profile image layout */
-.avatar,
-.site-header .avatar,
-header .avatar,
-img.profile-pic,
-.site-header img {
-  float: none !important;
-  display: block !important;
-  margin: 0 auto !important;
-  position: static !important;
-  width: auto !important;
-  max-width: 160px !important;
-  height: auto !important;
-}
-
-/* On mobile, stack */
+/* for mobile */
 @media (max-width: 768px) {
-  .site-header,
-  .header-wrapper,
-  .page-header,
-  .site-profile,
-  .author {
-    display: flex !important;
-    flex-direction: column !important;
-    align-items: center !important;
-    text-align: center !important;
-  }
-
-  .site-header h1,
-  .site-header .title,
-  .page-header h1,
-  .author h1 {
-    white-space: normal !important;
-    word-break: break-word !important;
-    width: 100% !important;
-    margin: 0.5rem 0 !important;
-  }
-
-  .site-header img,
-  .page-header img,
-  .author img {
+  /* Center the photo */
+  body.container > div:first-of-type {
     float: none !important;
-    clear: both !important;
-  }
-}
-
-/* Fix image alignment and sizing on mobile */
-@media (max-width: 768px) {
-  body.container {
     display: flex;
     flex-direction: column;
     align-items: center;
-    text-align: center;
-  }
-
-  body.container > div:first-of-type {
-    float: none !important;
     margin: 0 auto 1rem auto !important;
-    max-width: 180px !important;  /* smaller image container */
-    text-align: center !important;
   }
 
-  body.container img {
-    display: block;
-    margin: 0 auto;
-    width: 160px !important;  /* smaller image size */
+  body.container > div:first-of-type img {
+    width: 160px;
     height: auto;
+    margin-bottom: 0.5rem;
   }
 
+  /* Center your name, which is in the next div */
+  body.container > div:nth-of-type(2) h1 {
+    text-align: center !important;
+    width: 100%;
+    margin: 0.5rem 0 1rem 0;
+  }
+
+  /* Keep the rest of your text left-aligned */
   body.container > div:nth-of-type(2) {
-    text-align: center;
+    text-align: left !important;
     width: 90%;
     margin: 0 auto;
   }
