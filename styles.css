@@ -29,24 +29,32 @@ section {
 
 /* for mobile */
 @media (max-width: 768px) {
-  /* Remove float so image stacks properly */
+  /* Center the photo */
   body.container > div:first-of-type {
     float: none !important;
-    margin: 0 0 1rem 0 !important;
-    max-width: 180px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto 1rem auto !important;
   }
 
-  /* Make sure the image scales correctly */
   body.container > div:first-of-type img {
-    display: block;
-    width: 100%;
+    width: 160px;
     height: auto;
-    margin: 0; /* no centering */
+    margin-bottom: 0.5rem;
   }
 
-  /* Ensure all text and headings are left-aligned */
-  body.container,
-  body.container * {
+  /* Center your name, which is in the next div */
+  body.container > div:nth-of-type(2) h1 {
+    text-align: center !important;
+    width: 100%;
+    margin: 0.5rem 0 1rem 0;
+  }
+
+  /* Keep the rest of your text left-aligned */
+  body.container > div:nth-of-type(2) {
     text-align: left !important;
+    width: 90%;
+    margin: 0 auto;
   }
 }
